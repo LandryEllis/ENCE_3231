@@ -1,0 +1,12 @@
+Plotted to 'C:\School_Work\Embedded_Class\4-21 kicad of inverted pendalum\Gerber\4-21 kicad of inverted pendalum-F_Cu.gbr'.
+Plotted to 'C:\School_Work\Embedded_Class\4-21 kicad of inverted pendalum\Gerber\4-21 kicad of inverted pendalum-B_Cu.gbr'.
+Plotted to 'C:\School_Work\Embedded_Class\4-21 kicad of inverted pendalum\Gerber\4-21 kicad of inverted pendalum-F_Paste.gbr'.
+Plotted to 'C:\School_Work\Embedded_Class\4-21 kicad of inverted pendalum\Gerber\4-21 kicad of inverted pendalum-B_Paste.gbr'.
+Plotted to 'C:\School_Work\Embedded_Class\4-21 kicad of inverted pendalum\Gerber\4-21 kicad of inverted pendalum-F_Silkscreen.gbr'.
+Plotted to 'C:\School_Work\Embedded_Class\4-21 kicad of inverted pendalum\Gerber\4-21 kicad of inverted pendalum-B_Silkscreen.gbr'.
+Plotted to 'C:\School_Work\Embedded_Class\4-21 kicad of inverted pendalum\Gerber\4-21 kicad of inverted pendalum-F_Mask.gbr'.
+Plotted to 'C:\School_Work\Embedded_Class\4-21 kicad of inverted pendalum\Gerber\4-21 kicad of inverted pendalum-B_Mask.gbr'.
+Plotted to 'C:\School_Work\Embedded_Class\4-21 kicad of inverted pendalum\Gerber\4-21 kicad of inverted pendalum-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\School_Work\Embedded_Class\4-21 kicad of inverted pendalum\Gerber\4-21 kicad of inverted pendalum-job.gbrjob'.
+Info: Done.
+Info: Done.
